@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Web Developer and CS Undergrad</h3>
+<h1 align="center">Hi 👋, I'm Swagata Chatterjee </h1>
+<h3 align="center">A passionate Web Developer and MCA Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=I+love+building+projects;I+learn+by+cloning+and+building;Open+to+collaboration;Always+learning+new+tech" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently learning **DSA with JavaScript, advanced React, and backend with Node.js**
-- 🔭 I’m working on **building advanced clones and system projects**
+- 🔭 I’m working on **building advanced functional projects**
 - 💬 Ask me about **Web Development, React, and Project Structuring**
 - 📫 How to reach me: ranichatterjee21112@gmail.com | [LinkedIn] www.linkedin.com/in/swagata-chatterjee-2664b02aa
 - ⚡ Fun fact: I love making complex things simple.
@@ -39,13 +39,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- [🔗 Project 1 Name](Project1RepoURL) - Short one-liner description.
-- [🔗 Project 2 Name](Project2RepoURL) - Short one-liner description.
-- [🔗 Project 3 Name](Project3RepoURL) - Short one-liner description.
-- [🔗 Project 4 Name](Project4RepoURL) - Short one-liner description.
-
 ---
 
 ### 🗂️ Connect with me
@@ -56,9 +49,6 @@
   </a>
   <a href="YourLinkedInURL">
     <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="linkedin">
-  </a>
-  <a href="YourPortfolioURL">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="portfolio">
   </a>
 </p>
 
