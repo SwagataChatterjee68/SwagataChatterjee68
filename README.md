@@ -29,18 +29,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" height="180" alt="streak stats"/>
-</p>
-
-
----
-
----
-
 ### 🗂️ Connect with me
 
 <p align="left">
