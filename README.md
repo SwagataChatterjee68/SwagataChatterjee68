@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently mastering **RAG (Retrieval-Augmented Generation) and AI Agent orchestration**.
 - 🔭 I’m working on **Real-time collaborative platforms using Socket.io** and LLM integrations.
-- 🧠 Deep diving into **DSA with JavaScript** to write more efficient, scalable code.
 - 💬 Ask me about **React, Node.js, and building Intelligent Web Apps**.
 - 📫 How to reach me: ranichatterjee21112@gmail.com | [LinkedIn](https://www.linkedin.com/in/swagata-chatterjee-2664b02aa)
 - ⚡ Fun fact: I love making complex things simple, especially when it involves AI.
