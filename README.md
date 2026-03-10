@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swagata Chatterjee </h1>
-<h3 align="center">A passionate Full-Stack Developer and MCA Student</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+AI+Powered+Apps;Real-time+Web+Solutions;RAG+System+Explorer;Always+Learning+New+Tech" alt="Typing SVG" />
