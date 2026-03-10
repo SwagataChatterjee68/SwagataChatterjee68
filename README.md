@@ -1,61 +1,48 @@
 <h1 align="center">Hi 👋, I'm Swagata Chatterjee </h1>
-<h3 align="center">A passionate Web Developer and MCA Student</h3>
+<h3 align="center">A passionate Full-Stack Developer and MCA Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=I+love+building+projects;I+learn+by+cloning+and+building;Open+to+collaboration;Always+learning+new+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+AI+Powered+Apps;Real-time+Web+Solutions;RAG+System+Explorer;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **DSA with JavaScript, advanced React, and backend with Node.js**
-- 🔭 I’m working on **building advanced functional projects**
-- 💬 Ask me about **Web Development, React, and Project Structuring**
-- 📫 How to reach me: ranichatterjee21112@gmail.com | [LinkedIn] www.linkedin.com/in/swagata-chatterjee-2664b02aa
-- ⚡ Fun fact: I love making complex things simple.
+- 🌱 I’m currently mastering **RAG (Retrieval-Augmented Generation) and AI Agent orchestration**.
+- 🔭 I’m working on **Real-time collaborative platforms using Socket.io** and LLM integrations.
+- 🧠 Deep diving into **DSA with JavaScript** to write more efficient, scalable code.
+- 💬 Ask me about **React, Node.js, and building Intelligent Web Apps**.
+- 📫 How to reach me: ranichatterjee21112@gmail.com | [LinkedIn](https://www.linkedin.com/in/swagata-chatterjee-2664b02aa)
+- ⚡ Fun fact: I love making complex things simple, especially when it involves AI.
 
 ---
 
 ### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js&logoColor=339933)
+![Socket.io](https://img.shields.io/badge/Socket.io-121212?style=for-the-badge&logo=socket.io&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-121212?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=F05032)
+
+> **Specializing in:** AI Implementation • Vector Databases • Real-time Data Streaming
 
 ---
 
 ### 🗂️ Connect with me
 
 <p align="left">
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:ranichatterjee21112@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail">
   </a>
-  <a href="YourLinkedInURL">
+  <a href="https://www.linkedin.com/in/swagata-chatterjee-2664b02aa">
     <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="linkedin">
   </a>
 </p>
 
 ---
 
-<p align="center">✨ Building, learning, and growing every day ✨</p>
-
-
-<!--
-**SwagataChatterjee68/SwagataChatterjee68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">✨ Building the future with AI and Real-time Web ✨</p>
